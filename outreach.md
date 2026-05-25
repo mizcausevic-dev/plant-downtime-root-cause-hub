@@ -4,7 +4,7 @@ CC scaffolds this empty template; only Miz fills and sends.
 One cold/warm message per repo at STATE 5, logged below.
 -->
 
-# Outreach — Shipment Exception Command Center
+# Outreach — Plant Downtime Root Cause Hub
 
 ## Prospect template
 
