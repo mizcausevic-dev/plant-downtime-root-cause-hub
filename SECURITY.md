@@ -2,11 +2,11 @@
 
 ## Scope
 
-This repository is a **reference control plane** for plant-downtime intake,
-root-cause mapping, and restart posture across industrial workflows. It ships
-synthetic, non-sensitive sample data only. It is not a production system of record
-and should not be deployed with real industrial incident, workforce, or operational
-data without an independent security review.
+This repository is a **reference control plane** for plant downtime incident
+triage, root-cause mapping, and restart posture across manufacturing/industrial
+workflows. It ships synthetic, non-sensitive sample data only. It is not a
+production system of record and should not be deployed with real operational,
+plant, or customer data without an independent security review.
 
 ## Supported versions
 
